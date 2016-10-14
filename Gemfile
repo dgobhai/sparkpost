@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
 
-
+ruby '2.2.3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
+gem 'puma', '~> 3.6'
 gem 'sparkpost_rails', '~> 1.4'
 gem 'devise', '~> 4.2'
 gem 'figaro', '1.1.1'
