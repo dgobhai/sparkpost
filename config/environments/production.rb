@@ -1,6 +1,6 @@
 Rails.application.configure do
   config.action_mailer.delivery_method = :sparkpost
-  config.action_mailer.default_url_options = { host: 'http://sparkposter.herokuapp.com' }
+  config.action_mailer.default_url_options = { host: 'http://sparkpostbox.com' }
 
   # Settings specified here will take precedence over those in config/application.rb.
 
