@@ -1,0 +1,11 @@
+development:
+  host: localhost
+  adapter: postgresql
+  database: sparkposter_development
+  username: <%= `whoami` %>
+
+test:
+  host: localhost
+  adapter: postgresql
+  database: sparkposter_test
+  username: <%= `whoami` %>
