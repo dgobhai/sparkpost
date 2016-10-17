@@ -1,1 +1,2 @@
 SPARKPOST_API_KEY: 'abc'
+SECRET_KEY_BASE: 'aoeu123'
